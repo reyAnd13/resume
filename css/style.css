@@ -1,0 +1,174 @@
+body {
+  background-color: #e5e5e5;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.main-conteiner {
+  display: flex;
+  flex-direction: row;
+  width: 1200px;
+  background-color: #fff;
+  color: #000000;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main-info-conteiner {
+  padding: 100px 90px;
+}
+.front-end {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0 0 20px 0;
+  color: #000000;
+}
+.Shapovapol {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin: 0 0 25px 0;
+}
+.description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 400px;
+}
+.my-project-conteiner {
+  margin: 0 0 50px 0;
+}
+.my-project-list {
+  padding: 0 0 0 18px;
+}
+.number-list {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.my-project-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+.my-project-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my-project-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+.my-work-experiance-conteiner {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0px 0px 10px 0px;
+}
+
+.maine-conteiner-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.my-education {
+  width: 327px;
+  margin: 50px 0px 0px 0px;
+}
+/* sidebar conteiner */
+.sidebar-conteiner {
+  background-color: #1e2939;
+  color: #ffffff;
+  width: 370px;
+  padding-top: 40px;
+}
+.Contact-section {
+  margin: 50px 0 0 40px;
+}
+.Contacts {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #ffffff;
+}
+.contact-section-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 7px;
+}
+.contact-section-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #80878f;
+}
+.style-dot {
+  color: #fb6d3a;
+  padding: 0 0 0 15px;
+}
+.text-style {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.orang-text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+.my-work-experiance-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.my-work-experiance-grey {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 10px;
+}
+.my-work-experiance-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding: 0 0 0 20px;
+}
+.my-work-experiance-diviver {
+  color: #000000;
+}
